@@ -1,3 +1,7 @@
+
+<img src='readme-images/react.png' width='100' height='100' alt='logo'/>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
