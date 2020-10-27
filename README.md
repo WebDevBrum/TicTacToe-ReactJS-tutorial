@@ -1,7 +1,7 @@
 
 <img src='readme-images/react.png' width='100' height='100' alt='logo'/>
 
-#Ti-Tac-Toe
+# Ti-Tac-Toe
 
 <img src='readme-images/front.jpeg' width='350' height='200' alt='project preview'/>
 
