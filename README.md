@@ -1,6 +1,16 @@
 
 <img src='readme-images/react.png' width='100' height='100' alt='logo'/>
 
+#Ti-Tac-Toe
+
+<img src='readme-images/front.jpeg' width='350' height='200' alt='project preview'/>
+
+A tic-tac-toe game that..
+
+-Lets you play tic-tac-toe,
+-Indicates when a player has won the game,
+-Stores a game’s history as a game progresses,
+-Allows players to review a game’s history and see previous versions of a game’s board.
 
 # Getting Started with Create React App
 
